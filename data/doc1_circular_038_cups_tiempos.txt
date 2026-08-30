@@ -1,0 +1,53 @@
+TITLE: Estándares de tiempos de espera para citas con especialista - Circular Externa 038 de 2025
+URL: https://consultorsalud.com/tiempos-de-espera-para-citas-con-especialistas/
+SOURCE_ID: doc1_circular_038
+PUBLISHER: CONSULTORSALUD
+PUBLISHED: 2025-12-19
+---
+
+El Ministerio de Salud y Protección Social expidió la Circular Externa 038 de 2025 (12 de diciembre), que operacionaliza la implementación gradual del Modelo de Gestión de Tiempos de Espera (MGTE) en este caso para citas con especialista y fija los estándares de oportunidad que serán evaluados durante la Fase I (meses 0-6). La circular se dirige a EPS, entidades adaptadas, secretarías de salud, prestadores públicos/privados/mixtos, Supersalud, ADRES e IETS, entre otros actores.
+
+La medida se enmarca en el componente de oportunidad en la prestación ordenado por la Corte Constitucional (Sentencia T-760 de 2008 y Auto 1174 de 2025) y se articula con la Resolución 2117 de 2025, que adopta el MGTE para monitorear, medir y reducir demoras en asignación de citas, procedimientos y entrega de medicamentos, con foco en transparencia y eficiencia en EPS y prestadores.
+
+Fases de implementación: un despliegue progresivo en todo el país. El Artículo 8 de la resolución 2117 de 2025 definió tres fases de implementación para garantizar la adopción ordenada del modelo:
+- Fase I (0 a 6 meses): desarrollo técnico y consolidación de datos base.
+- Fase II (7 a 12 meses): implementación progresiva en regiones priorizadas y prueba de indicadores.
+- Fase III (a partir del mes 13): adopción total del modelo, generación de alertas automáticas y evaluación permanente.
+
+Puntos críticos de la Circular Externa 038 de 2025 para las citas con especialistas:
+- La Fase I (0-6 meses) se concentra en validar resultados iniciales, depurar datos y consolidar líneas base para ajustar tiempos de espera.
+- Se prioriza el seguimiento de citas de primera vez con especialista (derivación) en 5 especialidades, con códigos CUPS específicos.
+- Los estándares se soportan en normatividad vigente (Resolución 256 de 2016 y su modificación; Resolución 408 de 2018) y podrán ajustarse una vez se concrete el horizonte temporal de la fase.
+- Se exige articulación con sistemas de información, procesos de inspección, vigilancia y control, y el mecanismo de alarma de la Resolución 1632 de 2025.
+
+Más allá del anuncio del inicio de esta medición de estándares de tiempos de espera para citas con especialistas, el mensaje operativo es claro: en la fase inicial el sistema entra en un ciclo de medición comparada para construir líneas base confiables, con validación de datos y metodologías de cálculo, antes de escalar el modelo a más eventos de atención y tecnologías. El MGTE no es solo "un indicador": es un esquema de gestión que termina impactando agenda, referencia/contrarreferencia, suficiencia de red, contratación, autorizaciones y trazabilidad.
+
+Procedimientos priorizados para la medición de los tiempos de espera: consultas de primera vez con especialista (CUPS). La Circular 038 de 2025 define como prioritarios los siguientes procedimientos asociados a la derivación hacia atención médica especializada, para seguimiento de oportunidad:
+- Consulta primera vez por especialista en pediatría - CUPS 890283
+- Consulta primera vez por especialista en ginecología y obstetricia - CUPS 890250
+- Consulta primera vez por especialista en medicina interna - CUPS 890266
+- Consulta primera vez por especialista en psiquiatría - CUPS 890284
+- Consulta primera vez por especialista en cirugía general - CUPS 890235
+
+Estándares de desempeño: tiempos de espera a evaluar (Fase I). Como referentes para la evaluación de oportunidad durante la Fase I, la circular consolida los siguientes tiempos de desempeño (según normatividad vigente) para la asignación de citas:
+- Consulta de pediatría: hasta 5 días
+- Consulta de obstetricia: hasta 8 días
+- Consulta de ginecología: hasta 10 días
+- Consulta de medicina interna: hasta 15 días
+- Consulta de psiquiatría: hasta 10 días
+- Consulta de cirugía general: hasta 10 días
+- Consulta de medicina general: hasta 3 días
+
+La circular incorpora una nota de "tiempo promedio reportado en los últimos 5 años en el país" como referencia para la asignación de citas de ginecología y cirugía general.
+
+Implicaciones operativas para EPS, IPS y autoridades:
+1) Para EPS y entidades adaptadas: el MGTE convierte la oportunidad en una variable verificable, comparable y auditable. En Fase I, el cuello de botella típico será la cita de primera vez con especialista: si la EPS no alinea capacidad instalada, contratación, referencia y agenda, el indicador se evidencia. La circular anticipa que esta fase busca validar datos, metodologías de cálculo y líneas base, lo que obliga a EPS a asegurar consistencia entre fuentes (autorización, agendamiento, historia clínica, RIPS/soportes) y a preparar explicaciones técnicas ante inspección, vigilancia y control (IVC).
+2) Para IPS y redes integrales: el impacto inmediato es la gestión de la agenda (bloques, sobrecupo controlado, priorización clínica, cancelaciones, reprogramaciones) y la trazabilidad del recorrido del usuario desde la remisión hasta la consulta efectivamente asignada.
+3) Para secretarías, Supersalud y ADRES: la circular exige articulación con sistemas de información y procesos de inspección, vigilancia y control, y menciona el mecanismo de alarma de la Resolución 1632 de 2025, lo que sugiere una ruta de seguimiento progresivamente más estricta sobre oportunidad.
+
+Preguntas frecuentes sobre el Modelo de Gestión de Tiempos de Espera (MGTE):
+¿Qué fija exactamente la Circular 038 de 2025? Define los estándares de oportunidad que serán evaluados en la Fase I (0-6 meses) del MGTE y prioriza procedimientos asociados a la derivación a especialista para seguimiento.
+¿Qué consultas entran primero en medición? Consultas de primera vez con especialista en pediatría, gineco-obstetricia, medicina interna, psiquiatría y cirugía general, con CUPS definidos.
+¿Estos tiempos de espera pueden cambiar? Sí. La circular indica que los tiempos podrán ajustarse cuando se concrete el horizonte temporal de la fase y con base en los resultados y líneas base consolidadas.
+
+Comentario editorial de la fuente: la Circular Externa 038 de 2025 formaliza una transición: pasar de la queja estructural por demoras a un esquema de medición, comparación y ajuste con estándares explícitos para acceso a consulta (especializada y general) desde el arranque.

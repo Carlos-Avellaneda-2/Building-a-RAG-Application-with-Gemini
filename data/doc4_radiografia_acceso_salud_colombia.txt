@@ -1,0 +1,28 @@
+TITLE: Radiografía del acceso a la salud en Colombia: ¿Cuánto pueden esperar los pacientes?
+URL: https://consultorsalud.com/radiografia-del-acceso-a-la-salud-en-colombia/
+SOURCE_ID: doc4_radiografia_acceso
+PUBLISHER: CONSULTORSALUD
+PUBLISHED: 2025-04-30
+---
+
+Colombia atraviesa una de las situaciones más críticas en términos de acceso efectivo a la salud. El más reciente Informe de Balance Social 2024 de la Fundación Retorno Vital, presentado en el evento "Pacientes y Usuarios: el propósito que nos une en salud", revela que más de 25 millones de personas están afiliadas a EPS intervenidas o en proceso de liquidación. Esto implica una creciente intervención estatal en un sistema que muestra signos graves de disfunción.
+
+Medicamentos: la barrera más urgente. El 42% de las barreras reportadas por los pacientes están relacionadas con demoras en la entrega de medicamentos. Las más afectadas son personas con enfermedades oncológicas, autoinmunes, metabólicas y crónicas complejas, donde la interrupción del tratamiento puede ser letal. En los casos más críticos, algunos pacientes esperaron hasta 250 días para acceder a sus medicamentos. En promedio, durante todo el 2024, los pacientes solo recibieron 4,7 meses del tratamiento necesario, lo que evidencia una falla sistemática en la continuidad del cuidado. "La dilación puede marcar la diferencia entre una intervención oportuna y una complicación grave", señaló Jorge García, director ejecutivo de Retorno Vital.
+
+Cifras que exigen respuestas. El informe, elaborado a partir de los registros de la plataforma SUAP (Somos Un Apoyo al Paciente) y del Call Center de la Fundación Retorno Vital, evidencia múltiples barreras que persisten en el acceso a los servicios de salud. Un 27% de los pacientes reportaron demoras significativas en la asignación de citas médicas, mientras que el 21% indicó retrasos en los procesos de autorización de servicios. Además, el 7% denunció la falta de convenios entre las EPS e IPS, lo que impide canalizar oportunamente la atención. Estas limitaciones se reflejan en tiempos de espera alarmantes: hasta 135 días para la entrega de medicamentos, 92 días en promedio para acceder a una consulta con especialista y 36 días para obtener una cita con medicina general.
+
+Zonas críticas: dónde se concentra la crisis. Los departamentos con mayor número de barreras reportadas en 2024 fueron:
+1. Bogotá - 438 casos (+83% frente a 2023)
+2. Antioquia - 221 casos
+3. Valle del Cauca - 186 casos
+4. Santander - 185 casos
+
+Estas cifras reflejan no solo una crisis estructural, sino una incapacidad del sistema para responder, incluso en zonas con mayor infraestructura médica.
+
+Enfermedades más frecuentes según la edad. El deterioro en el acceso a los servicios de salud también presenta variaciones significativas según el grupo etario de los pacientes. En menores de 40 años, se observa una mayor prevalencia de enfermedades autoinmunes, patologías raras y trastornos neurológicos. En la población entre los 41 y 60 años, aumentan los casos de enfermedades oncológicas, afecciones respiratorias crónicas y trastornos cardiovasculares. En los adultos mayores de 60 años, predominan las enfermedades crónicas degenerativas y las condiciones metabólicas, como la diabetes.
+
+Gasto de bolsillo: la otra barrera. El informe advierte sobre el aumento sostenido del gasto directo que deben asumir los pacientes para acceder a servicios básicos de salud. En zonas urbanas, el desembolso mensual promedio superó los $110.000 pesos colombianos, mientras que en áreas rurales o de difícil acceso, los costos se elevaron considerablemente, alcanzando entre $850.000 y $1.200.000 pesos colombianos, incluyendo transporte intermunicipal, alojamiento, alimentación y adquisición de medicamentos no disponibles en las redes de prestación.
+
+Un sistema financieramente insostenible. El sistema de salud colombiano enfrenta una crisis financiera estructural que compromete su sostenibilidad operativa y funcional. Entre los factores más críticos se encuentran las demoras prolongadas en los pagos a las IPS, lo cual dificulta la continuidad de los servicios y genera interrupciones en los tratamientos. A esto se suman las persistentes desigualdades en el acceso a servicios para poblaciones vulnerables, así como la desmotivación del talento humano en salud.
+
+Recomendaciones de la Fundación Retorno Vital: (1) fortalecer la coordinación EPS-IPS para garantizar atención continua; (2) revisar el modelo financiero del sistema con ajustes estructurales; (3) asegurar el suministro de medicamentos esenciales, especialmente para patologías de alto costo.

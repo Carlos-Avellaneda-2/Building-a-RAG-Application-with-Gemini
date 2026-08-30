@@ -1,0 +1,23 @@
+TITLE: Artificial intelligence in medical referrals triage based on Clinical Prioritization Criteria
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10642163/
+SOURCE_ID: doc3_cpc_queensland_ai
+AUTHORS: Abdel-Hafez, Jones, Ebrahimabadi, Ryan, Graham, Slee, Whitfield
+JOURNAL: Frontiers in Digital Health, 2023, DOI 10.3389/fdgth.2023.1192975
+LICENSE: Creative Commons Attribution License (CC BY 4.0)
+---
+
+Summary of the study (condensed from the open-access CC-BY article):
+
+Context. In Queensland (Australia), the Clinical Prioritisation Criteria (CPC) is a clinical decision support tool used to ensure that patients referred to public specialist outpatient services are assessed according to clinical urgency. Referrals are manually triaged by health service staff into one of three categories before an appointment is booked: Category 1 (highest urgency, must be seen within one month), Category 2 (medium urgency, within three months), and Category 3 (low urgency, within one year). This manual process is time-consuming and does not scale well as referral volumes grow.
+
+Objective. The authors developed a machine learning method to automate the categorization of medical referrals according to CPC guidelines, aiming to support (not replace) clinicians by reducing the time spent on manual triage.
+
+Data. The study analyzed 17,378 ear-nose-throat (ENT) referrals collected over three years (2019-2022) from two Hospital and Health Services in Queensland (Sunshine Coast HHS and Townsville HHS). Only about 9.6% of referrals (1,689) had a CPC label attached by the referring general practitioner, which is one of the core data-quality challenges addressed in the paper.
+
+Methods tested. The authors compared several families of methods to predict the CPC category from referral text: (1) text similarity methods (Cosine similarity, Euclidean distance, Jaccard similarity, Levenshtein distance) comparing referral medical terms against CPC keywords; (2) K-nearest neighbours; (3) supervised learning (logistic regression, linear SVM with one-vs-rest/one-vs-one/error-correcting strategies, random forest, gradient boosting, multilayer perceptron, LightGBM, XGBoost); (4) semi-supervised learning (self-training with pseudo-labels); and (5) unsupervised learning (K-means clustering). Medical terms were extracted from referral text using Amazon Comprehend Medical (a named-entity-recognition tool for clinical text).
+
+Results. The best-performing method was text similarity using Levenshtein distance between referral medical terms and CPC keywords identified by clinicians, achieving a level of agreement of 0.538 (53.8%) with the historical category assigned by human reviewers. For comparison, random ternary categorization would be expected to achieve about 0.333. Supervised-learning methods generally performed worse than the text-similarity approach in this setting, likely because only a small, imbalanced labeled dataset (1,689 referrals) was available for training. Unsupervised K-means clustering ranked second-best. The best category-level performance was for Category 3 (low urgency, the majority class), with 63.8% precision and 64.4% sensitivity; Category 1 (highest urgency) sensitivity was close, at 62.4%.
+
+Limitations acknowledged by the authors. (1) The historical categorization used as "ground truth" was not always fully compliant with the official CPC criteria, so there is no true ground truth to measure absolute accuracy, only "level of agreement" with prior human decisions. (2) The dataset is small and some CPC categories are under-represented, which undermines confidence in the results and generalizability. (3) The model is specific to the ENT specialty and would need separate validation for other specialties. (4) Potential clinical risks of misclassification were not analyzed in this study and are left for future work. (5) The authors explicitly note that large language models (LLMs) may offer an alternative approach worth exploring and comparing against the methods used in this study.
+
+Relevance to referral-prioritization projects in other health systems. This study is one of the few published, methodologically transparent examples of automating referral-to-specialist prioritization (as opposed to emergency-department triage) using real administrative referral data, and it explicitly documents the risk asymmetry problem: automated methods trained on imbalanced historical data tend to perform best on the majority (low-urgency) class and are comparatively weaker at correctly identifying the minority high-urgency cases, which is precisely the type of error that carries the greatest clinical cost in any prioritization system, including specialist-referral prioritization for the Colombian context.
